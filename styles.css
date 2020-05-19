@@ -51,7 +51,7 @@ body {
 }
 
 .body .title {
-	font-size: 7 rem;
+
 	text-align: center;
 	font-family: cursive;
 	margin-top: 20px;
@@ -60,7 +60,7 @@ body {
 .body p {
 	color: white;
 	text-align: center;
-	font-size: 5 rem;
+   font-size: 5 rem;
 	padding: 1rem 0rem;
 }
 .intro {
