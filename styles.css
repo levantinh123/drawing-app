@@ -1,5 +1,5 @@
 .page {
-	height: 50vh;
+	height: 60vh;
 	background-image: url("images/app.jpg");
 	background-size: cover;
 }
@@ -51,7 +51,7 @@ body {
 }
 .titlewed{
 	color: white;
-	font-size: 7 rem;
+	font-size: 8 rem;
 }
 .body .title {
 	font-size: 7 rem;
