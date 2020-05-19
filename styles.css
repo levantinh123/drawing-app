@@ -51,13 +51,13 @@ body {
 }
 
 .body .title {
-       font-size: 7 rem;
+    font-size: 7 rem;
 	text-align: center;
 	font-family: cursive;
 	margin-top: 20px;
 	color: white;
 }
-.body p {
+.body h2 {
 	color: white;
 	text-align: center;
    font-size: 5 rem;
