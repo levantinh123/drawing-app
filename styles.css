@@ -49,17 +49,16 @@ body {
 .body {
 	color:black;
 }
-.titlewed{
-	color: white;
-	font-size: 8 rem;
-}
+
 .body .title {
 	font-size: 7 rem;
 	text-align: center;
 	font-family: cursive;
 	margin-top: 20px;
+	color: white;
 }
 .body p {
+	color: white;
 	text-align: center;
 	font-size: 1.2rem;
 	padding: 1rem 0rem;
