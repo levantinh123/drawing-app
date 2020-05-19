@@ -49,6 +49,10 @@ body {
 .body {
 	color:black;
 }
+.titlewed{
+	color: white;
+	
+}
 .body .title {
 	font-size: 7 rem;
 	text-align: center;
