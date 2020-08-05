@@ -100,9 +100,9 @@ body {
 }
 .bottom ul li {
 	display: flex;
-	background-color: rgba(18, 12, 12, 0.7);
+	background-color: rgba(28, 169, 224, 0.7);
 	padding: 10px 20px;
-	color: #fff;
+	color: rgb(26, 25, 25);
 	margin: 5px 0;
 	transition: 0.5s;
 	align-items: center;
@@ -111,7 +111,7 @@ body {
 
 .bottom ul li:hover {
 	transform: scale(1.06);
-	background-color: rgba(17, 2, 2, 0.44);
+	background-color: rgba(7, 233, 64, 0.44);
 }
 .intro .features .itemFeatures:hover {
 	background: #777777;
